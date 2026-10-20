@@ -1,0 +1,24 @@
+<!-- Navigation Header -->
+<header class="fixed top-0 left-0 w-full z-50 transition-all duration-300 bg-gray-950/80 backdrop-blur-md border-b border-gray-800/50" id="navbar">
+    <div class="max-w-7xl mx-auto px-6 h-20 flex items-center justify-between">
+        <a href="#hero" class="text-xl font-bold tracking-wider text-white flex items-center gap-2 group">
+            <!-- Replace the span box below with your <img> tag -->
+            <img src="path-to-your-logo.png" alt="Logo" class="w-10 h-10 object-contain rounded-lg">
+            <span>MUBDEE<span class="text-amber-400">.</span></span>
+        </a>
+        <a href="#hero" class="text-xl font-bold tracking-wider text-white flex items-center gap-2 group">
+                <span class="w-8 h-8 rounded-lg bg-amber-400/10 border border-amber-400/30 flex items-center justify-center text-amber-400 font-extrabold group-hover:scale-105 transition-transform">TAM</span>
+                <span>UBDEE<span class="text-amber-400">.</span></span>
+            </a>
+            <div class="pt-2">
+                            <div class="w-full bg-gray-800 rounded-full h-2 overflow-hidden">
+                                <div class="bg-gradient-to-r from-amber-400 to-amber-200 h-full rounded-full w-[10%]"></div>
+                            </div>
+                            <div class="flex justify-between text-xs text-gray-400 mt-1">
+                                <span>Problem Solving Proficiency</span>
+                                <span class="text-amber-400 font-bold">Noob</span>
+                            </div>
+                        </div>
+    </div>
+</header>
+
